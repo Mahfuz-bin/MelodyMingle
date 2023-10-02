@@ -1,6 +1,6 @@
-# RhythmicRecommender
+# MelodyMingle
 
-Discover your perfect playlist! RhythmicRecommender is a dynamic and user-friendly music recommendation web application designed to deliver personalized song suggestions based on user preferences. This project combines the power of a recommendation system with an intuitive web interface, allowing users to discover new music that aligns with their unique taste.
+Discover your perfect playlist! MelodyMingle is a dynamic and user-friendly music recommendation web application designed to deliver personalized song suggestions based on user preferences. This project combines the power of a recommendation system with an intuitive web interface, allowing users to discover new music that aligns with their unique taste.
 
 ## Features
 
